@@ -2,13 +2,9 @@
 
 ## P A P S T &nbsp;&nbsp; C H A K A
 
-----
-
-<a href = "https://papstchaka.github.io/myportfolio/" target = "_blank" align = "center">
+<a href = "https://papstchaka.github.io/myportfolio/" target = "_blank" style="align : center; padding : 20px 0px 20px 0px;">
     <img src="assets/portfolio.gif" alt="My Portfolio"/>
 </a>
-
-<br></br>
 
 :point_up: CHECK OUT MY [`PORTFOLIO`](https://papstchaka.github.io/myportfolio/)!! :point_up:
 
@@ -23,8 +19,6 @@ Also check out my other social media accounts:
 - [`Instagram`](https://z-p42.www.instagram.com/papstchaka/)
 
 ----
-
-<br></br>
 
 - :man_student: I am studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), even though I am right now in Vienna doing an Erasmus semester at [`Technical University of Vienna`](https://www.tuwien.at/en/)
 - :computer: I am currently working for [`Siemens AG / Siemens Austria`](https://www.siemens.com/global/en.html) doing `Machine Learning` in industrial networks &rightarrow; check out [`FabOS`](https://www.fab-os.org/) to learn more about the project
