@@ -5,7 +5,7 @@
 ----
 
 <a href = "https://papstchaka.github.io/myportfolio/" target = "_blank" align = "center">
-    <img src="assets/title.PNG" alt="Title"/>
+    <img src="assets/portfolio.gif" alt="My Portfolio"/>
 </a>
 
 <br></br>
