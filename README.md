@@ -20,7 +20,7 @@ Also check out my other social media accounts:
 
 ----
 
-- :man_student: I am studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), even though I am right now in Vienna doing an Erasmus semester at [`Technical University of Vienna`](https://www.tuwien.at/en/)
-- :computer: I am currently working for [`Siemens AG / Siemens Austria`](https://www.siemens.com/global/en.html) doing `Machine Learning` in industrial networks &rightarrow; check out [`FabOS`](https://www.fab-os.org/) to learn more about the project
+- :man_student: I am studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), even though I am just finished an Erasmus semester at [`Technical University of Vienna`](https://www.tuwien.at/en/) in Vienna
+- :computer: I am currently working for [`Siemens AG`](https://www.siemens.com/global/en.html) doing `Machine Learning` in industrial networks &rightarrow; check out [`FabOS`](https://www.fab-os.org/) to learn more about the project
 
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
