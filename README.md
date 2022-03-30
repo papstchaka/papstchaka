@@ -28,5 +28,7 @@ Also check out my other social media accounts:
 ![](https://github.com/papstchaka/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/papstchaka/github-stats/blob/master/generated/languages.svg)
 
+![](https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge)
+
 
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
