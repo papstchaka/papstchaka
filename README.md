@@ -27,8 +27,8 @@ Also check out my other social media accounts:
 
 <br>
 <p align="center">
-  <img alt="User Stats" src="https://github.com/papstchaka/github-stats/blob/master/generated/overview.svg" width="40%" height="180px"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&hide=jupyter%20notebook&&langs_count=10&&layout=compact" width="40%" height="180px"/>
+  <img alt="User Stats" src="https://github.com/papstchaka/github-stats/blob/master/generated/overview.svg" width="40%" height="190px"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&hide=jupyter%20notebook&&langs_count=10&&layout=compact" width="40%" height="190px"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge)
