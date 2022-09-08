@@ -27,7 +27,7 @@ Also check out my other social media accounts:
 
 ![](https://github.com/papstchaka/github-stats/blob/master/generated/overview.svg)
 <!-- ![](https://github.com/papstchaka/github-stats/blob/master/generated/languages.svg) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&theme=dark&&hide=jupyter%20notebook&&langs_count=10&&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&hide=jupyter%20notebook&&langs_count=10&&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge)
 
