@@ -13,25 +13,38 @@ There you can find all major projects I have done in the last years :smiley:
 Also check out my other social media accounts:
 
 - [`GitLab`](https://gitlab.com/papstchaka)
+
 - [`E-Mail`](mailto:alexander.christoph@tum.de)
+
 - [`LinkedIn`](https://www.linkedin.com/in/alex-christoph/)
+
 - [`Xing`](https://www.xing.com/profile/Alexander_Christoph10)
+
 - [`Instagram`](https://z-p42.www.instagram.com/papstchaka/)
 
-----
-
-- :man_student: I am studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), even though I just finished an Erasmus semester at [`Technical University of Vienna`](https://www.tuwien.at/en/) in Vienna
-- :computer: I am currently working for [`Siemens AG`](https://www.siemens.com/global/en.html) doing `Machine Learning` in industrial networks &rightarrow; check out [`FabOS`](https://www.fab-os.org/) to learn more about the project
+<br></br>
 
 ----
 
-<br>
+<br></br>
+
+- :man_student: Studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), currently looking for `master's thesis` in the sphere of `Data Science` or `Machine Learning`
+
+- :computer: Currently working as freelancer for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on invoice verification
+
+<br></br>
+
+----
+
+<br></br>
+
 <p align="center">
   <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=papstchaka&&show_icons=true&&theme=dark&&include_all_commits=true&&count_private=true" width="60.25%"/>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&theme=dark&&hide=jupyter%20notebook" width="25%"/>
+  <br></br>
+  <br></br>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge">
 </p>
-
-![](https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge)
 
 
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
