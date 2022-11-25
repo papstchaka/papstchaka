@@ -28,9 +28,9 @@ Also check out my other social media accounts:
 
 <br></br>
 
-- :man_student: Studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), currently looking for `master's thesis` in the sphere of `Data Science` or `Machine Learning`
+- :man_student: Studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), soon starting my `master's thesis` in the sphere of `Machine Vision` at [`MVTec Software GmbH`](https://www.mvtec.com/de/)
 
-- :computer: Currently working as freelancer for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on invoice verification
+- :computer: Currently working as freelancer for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on invoice verification, endpoint creation and implementation of new features in the whole backend pipeline
 
 <br></br>
 
