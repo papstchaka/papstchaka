@@ -39,8 +39,8 @@ Also check out my other social media accounts:
 <br></br>
 
 <p align="center">
-  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=papstchaka&&show_icons=true&&theme=dark&&include_all_commits=true&&count_private=true" width="60.25%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&theme=dark&&hide=jupyter%20notebook" width="25%"/>
+  <img alt="User Stats" src="https://github-stats-alpha.vercel.app/api?username=papstchaka&cc=172f45&tc=6e93b5&ic=6e93b5&bc=bddfff" width="60.25%"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&theme=prussian&&hide=jupyter%20notebook" width="25%"/>
   <br></br>
   <br></br>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge">
