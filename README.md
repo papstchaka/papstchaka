@@ -20,7 +20,7 @@ Also check out my other social media accounts:
 
 - [`Xing`](https://www.xing.com/profile/Alexander_Christoph10)
 
-- [`Instagram`](https://z-p42.www.instagram.com/papstchaka/)
+- [`Instagram`](https://z-p42.www.instagram.com/chaqueezy/)
 
 <br></br>
 
