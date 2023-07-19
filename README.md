@@ -28,9 +28,9 @@ Also check out my other social media accounts:
 
 <br></br>
 
-- :man_student: Studying at [`Technical University of Munich (TUM)`](https://www.tum.de/en/), writing my `master's thesis` in the sphere of `Machine Vision` at [`MVTec Software GmbH`](https://www.mvtec.com/de/)
+- :man_student: Studied electrical engineering at [`Technical University of Munich (TUM)`](https://www.tum.de/en/)
 
-- :computer: Currently working as freelancer for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on invoice verification, endpoint creation and implementation of new features in the whole backend pipeline
+- :computer: Currently working as freelancer for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on invoice verification, data parsing and cleaning, endpoint creation and implementation of new features in the whole backend pipeline
 
 <br></br>
 
@@ -40,7 +40,7 @@ Also check out my other social media accounts:
 
 <p align="center">
   <img alt="User Stats" src="https://github-stats-alpha.vercel.app/api?username=papstchaka&cc=172f45&tc=6e93b5&ic=6e93b5&bc=bddfff" width="60.25%"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papstchaka&&theme=prussian&&hide=jupyter%20notebook" width="25%"/>
+  <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=papstchaka&&theme=prussian&&hide=jupyter%20notebook" width="25%"/>
   <br></br>
   <br></br>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=papstchaka&style=for-the-badge">
