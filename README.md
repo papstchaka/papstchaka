@@ -24,7 +24,7 @@ Also check out my other social media accounts:
 
 - :man_student: Studied electrical engineering at [`Technical University of Munich (TUM)`](https://www.tum.de/en/)
 
-- :computer: Currently working as freelancer for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on invoice verification, data parsing and cleaning, endpoint creation and implementation of new features in the whole backend pipeline
+- :computer: Currently working for [`VESTIGAS GmbH`](https://vestigas.com/) as backend engineer, especially working on data parsing and cleaning, endpoint creation and implementation of new features within the whole backend pipeline
 
 <br></br>
 
